@@ -1,0 +1,19 @@
+.header-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+.options-container {
+  display: flex;
+  flex-direction: row;
+}
+.option-name {
+  padding-left: 25px;
+  padding-right: 20px;
+  font-family: 'Roboto';
+}
+.wave-logo {
+  height: 35px;
+  width: 35px;
+}
